@@ -9,6 +9,6 @@ public class oneController {
     @GetMapping("init")
     public String init(){
 
-        return "你好";
+        return "你好。。。123";
     }
 }
